@@ -377,6 +377,10 @@ html
 
 @media screen and (max-width:800px)
 {
+    .habilidades .contenido-seccion
+    {
+    padding: 0 0;
+    }
     .habilidades .contenido-seccion .fila
     {
         display: block;
