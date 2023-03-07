@@ -392,6 +392,11 @@ html
         justify-content: center;
     }
 
+.habilidades .contenido-seccion .barra 
+    {
+    margin-right: 1px;
+    }
+
     .sobremi .contenido-seccion .fila
     {
         display: block;
@@ -403,6 +408,11 @@ html
         margin: auto;
         margin-top: 20px;
     }
+    .resumen .contenido-seccion .info .col 
+    {
+        width: 57%;
+    }
+
 
     .resumen .contenido-seccion .fila
     {
@@ -411,7 +421,7 @@ html
 
     .resumen .contenido-seccion .fila .col
     {
-        width: 90%;
+        width: 100%;
         margin: auto;
     }
 
